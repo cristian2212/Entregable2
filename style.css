@@ -1,0 +1,48 @@
+body{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cyan;
+}
+h1{ 
+    color: violet;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: brown;
+}
+img{
+    border-radius: 20ex;
+}
+a{
+    color: brown;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+a:hover{
+    color:brown
+}
+ul{
+    list-style: square;
+} 
+table{
+    border-color: brown;
+    border: blueviolet;
+    padding: 20ex;
+    text-align: center;
+}
+form{
+    background-color: blueviolet;
+    padding: 20ex;
+    display: inline-block;
+    margin: 50ex;
+}
+button{
+    background-color: aliceblue;
+    cursor: pointer;
+}
+button:hover{
+    background-color: wheat
+}
